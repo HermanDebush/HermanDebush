@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HermanDebush&color=ff8fc7&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FHermanDebush&label=PROFILE%20VIEWS&labelColor=%232b1b3d&countColor=%23ff8fc7&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/HermanDebush?tab=followers"><img src="https://img.shields.io/github/followers/HermanDebush?style=for-the-badge&color=c58bff&labelColor=2b1b3d&logo=github&label=%D0%9F%D0%9E%D0%94%D0%9F%D0%98%D0%A1%D0%A7%D0%98%D0%9A%D0%98" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Discord-hermandebush-ff8fc7?style=for-the-badge&logo=discord&logoColor=white&labelColor=2b1b3d" alt="Discord: hermandebush" />
 </p>
@@ -155,9 +155,6 @@ warning: >
   <img src="https://streak-stats.demolab.com?user=HermanDebush&hide_border=true&background=1a1025&ring=ff8fc7&fire=c58bff&currStreakLabel=ff8fc7&sideLabels=e9d7ff&currStreakNum=ffffff&sideNums=ffffff&dates=b39ddb&stroke=3d2a55&locale=ru" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HermanDebush&bg_color=1a1025&color=ff8fc7&line=c58bff&point=ffffff&area=true&area_color=ff8fc7&hide_border=true&custom_title=Activity" alt="activity graph" />
-</p>
 
 ---
 
