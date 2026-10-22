@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HermanDebush&color=ff8fc7&style=for-the-badge&label=%D0%97%D0%90%D0%A8%D0%9B%D0%98%20%D0%9F%D0%9E%D0%93%D0%9B%D0%90%D0%94%D0%98%D0%A2%D0%AC" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HermanDebush&color=ff8fc7&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
   <a href="https://github.com/HermanDebush?tab=followers"><img src="https://img.shields.io/github/followers/HermanDebush?style=for-the-badge&color=c58bff&labelColor=2b1b3d&logo=github&label=%D0%9F%D0%9E%D0%94%D0%9F%D0%98%D0%A1%D0%A7%D0%98%D0%9A%D0%98" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Discord-hermandebush-ff8fc7?style=for-the-badge&logo=discord&logoColor=white&labelColor=2b1b3d" alt="Discord: hermandebush" />
 </p>
@@ -156,7 +156,7 @@ warning: >
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HermanDebush&bg_color=1a1025&color=ff8fc7&line=c58bff&point=ffffff&area=true&area_color=ff8fc7&hide_border=true&custom_title=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%BB%D1%81%D1%8F" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HermanDebush&bg_color=1a1025&color=ff8fc7&line=c58bff&point=ffffff&area=true&area_color=ff8fc7&hide_border=true&custom_title=Activity" alt="activity graph" />
 </p>
 
 ---
