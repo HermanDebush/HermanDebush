@@ -1,15 +1,15 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fc7,50:c58bff,100:7f5af0&height=230&section=header&text=Герман&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=разработчик%20·%20СНН%20PROJECT%20·%20мяу~&descAlignY=58&descSize=22" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fc7,50:c58bff,100:7f5af0&height=230&section=header&text=%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%C2%B7%20%D0%A1%D0%9D%D0%9D%20PROJECT%20%C2%B7%20%D0%BC%D1%8F%D1%83~&descAlignY=58&descSize=22" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF8FC7&center=true&vCenter=true&width=640&height=50&lines=Привет,+я+Герман+%28%3D%5E%EF%BD%A5%CF%89%EF%BD%A5%5E%3D%29;ПУ-ПУ-ПУ...;Ты+ведь+любишь+красивый+код,+да%3F+%28%C2%AC%E2%80%BF%C2%AC%29;Не+смотри+так+на+мой+код+%3E%2F%2F%2F%3C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF8FC7&center=true&vCenter=true&width=640&height=50&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD;%D0%9F%D0%A3-%D0%9F%D0%A3-%D0%9F%D0%A3...;%D0%A2%D1%8B+%D0%B2%D0%B5%D0%B4%D1%8C+%D0%BB%D1%8E%D0%B1%D0%B8%D1%88%D1%8C+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B9+%D0%BA%D0%BE%D0%B4%2C+%D0%B4%D0%B0%3F;%D0%9D%D0%B5+%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8+%D1%82%D0%B0%D0%BA+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+%D0%BA%D0%BE%D0%B4" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HermanDebush&color=ff8fc7&style=for-the-badge&label=ЗАШЛИ+ПОГЛАДИТЬ" alt="profile views" />
-  <a href="https://github.com/HermanDebush?tab=followers"><img src="https://img.shields.io/github/followers/HermanDebush?style=for-the-badge&color=c58bff&labelColor=2b1b3d&logo=github&label=ПОДПИСЧИКИ" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HermanDebush&color=ff8fc7&style=for-the-badge&label=%D0%97%D0%90%D0%A8%D0%9B%D0%98%20%D0%9F%D0%9E%D0%93%D0%9B%D0%90%D0%94%D0%98%D0%A2%D0%AC" alt="profile views" />
+  <a href="https://github.com/HermanDebush?tab=followers"><img src="https://img.shields.io/github/followers/HermanDebush?style=for-the-badge&color=c58bff&labelColor=2b1b3d&logo=github&label=%D0%9F%D0%9E%D0%94%D0%9F%D0%98%D0%A1%D0%A7%D0%98%D0%9A%D0%98" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Discord-hermandebush-ff8fc7?style=for-the-badge&logo=discord&logoColor=white&labelColor=2b1b3d" alt="Discord: hermandebush" />
 </p>
 
@@ -116,7 +116,7 @@ warning: >
 
 <p align="center">
   <a href="https://nasledie.app/">
-    <img src="https://img.shields.io/badge/Наследие-nasledie.app-ff8fc7?style=for-the-badge&labelColor=2b1b3d" alt="Наследие — nasledie.app" />
+    <img src="https://img.shields.io/badge/%D0%9D%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5-nasledie.app-ff8fc7?style=for-the-badge&labelColor=2b1b3d" alt="Наследие — nasledie.app" />
   </a>
   <br/>
   <sub>мой главный проект, заходи посмотреть (=^･ω･^=)</sub>
@@ -156,7 +156,7 @@ warning: >
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HermanDebush&bg_color=1a1025&color=ff8fc7&line=c58bff&point=ffffff&area=true&area_color=ff8fc7&hide_border=true&custom_title=Сколько%20я%20старался" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HermanDebush&bg_color=1a1025&color=ff8fc7&line=c58bff&point=ffffff&area=true&area_color=ff8fc7&hide_border=true&custom_title=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%BB%D1%81%D1%8F" alt="activity graph" />
 </p>
 
 ---
@@ -180,5 +180,5 @@ warning: >
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:c58bff,100:ff8fc7&height=120&section=footer&text=ПУ-ПУ-ПУ&fontSize=30&fontColor=ffffff&fontAlignY=70" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:c58bff,100:ff8fc7&height=120&section=footer&text=%D0%9F%D0%A3-%D0%9F%D0%A3-%D0%9F%D0%A3&fontSize=30&fontColor=ffffff&fontAlignY=70" alt="footer" />
 </p>
